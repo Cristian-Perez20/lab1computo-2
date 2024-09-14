@@ -1,0 +1,9 @@
+
+Este programa resulta útil en escenarios donde se requiere recopilar
+información básica de los usuarios de una forma clara e interactiva. 
+Gracias al uso de varios tipos de widgets como botones de opción 
+(radiobox), listas desplegables (combobox) y selectores de números 
+(spinbox), el usuario puede ingresar datos de manera intuitiva y eficiente. 
+Al ofrecer opciones predefinidas y límites numéricos, 
+se minimizan posibles errores al completar el formulario,
+lo que hace que el proceso sea más fluido y fácil de entender.
